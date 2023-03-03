@@ -30,8 +30,4 @@ This knowledge is applied to the solving of each task therein in this repository
 - All header files should be include guarded
 
 
-## Authors & Credits
-This is an ALX Holberton School project, it was done in a team of two people indicated below;
 
-- [Oluwatomisin Isogun](https://@github.com/TosinISOGUN)
-- [Olaoluwa Isogun](https://@github.com/OlaoluwaISOGUN)
